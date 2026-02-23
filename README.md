@@ -94,4 +94,3 @@ SQL | Python | Pandas | NumPy | Matplotlib | Data Cleaning | Data Analysis | Bus
 
 ### 📌 Author
 Sachin  
-Aspiring Data Analyst
